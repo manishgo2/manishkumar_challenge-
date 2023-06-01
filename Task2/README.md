@@ -79,9 +79,8 @@ The program is designed to handle JSON objects like the following example:
  }
 }
 
-**Output JSON:**
+###Output JSON:
 
-```json
 
 [
     {
